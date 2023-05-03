@@ -1,0 +1,572 @@
+#a{
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
+}
+
+#d{
+   color: white;
+    justify-content: center;
+}
+#f{
+    font-weight: 700;
+}
+.image{
+    position: relative;
+    width: 400px;
+}
+.image__img{
+    display: block;
+    width: 100%;
+}
+.image__overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlay:hover{
+    opacity: 1;
+}
+.image__title{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__description{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+.imagee{
+    position: relative;
+    width: 400px;
+}
+.image__imgg{
+    display: block;
+    width: 100%;
+}
+.image__overlayy{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlayy:hover{
+    opacity: 1;
+}
+.image__titlee{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__descriptionn{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+.imageee{
+    position: relative;
+    width: 400px;
+}
+.image__imggg{
+    display: block;
+    width: 100%;
+}
+.image__overlayyy{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlayyy:hover{
+    opacity: 1;
+}
+.image__titleee{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__descriptionnn{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+.csss{
+    display: flex;
+    justify-content: space-evenly;
+}
+.imageeee{
+    position: relative;
+    width: 400px;
+}
+.image__imgggg{
+    display: block;
+    width: 100%;
+}
+.image__overlayyyy{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlayyyy:hover{
+    opacity: 1;
+}
+.image__titleeee{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__descriptionnnn{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+.imageeeee{
+    position: relative;
+    width: 400px;
+}
+.image__imggggg{
+    display: block;
+    width: 100%;
+}
+.image__overlayyyyy{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlayyyyy:hover{
+    opacity: 1;
+}
+.image__titleeeee{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__descriptionnnnn{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+.imageeeeee{
+    position: relative;
+    width: 400px;
+}
+.image__imgggggg{
+    display: block;
+    width: 100%;
+}
+.image__overlayyyyyy{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlayyyyyy:hover{
+    opacity: 1;
+}
+.image__titleeeeee{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__descriptionnnnnn{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+.cssss{
+    display: flex;
+    justify-content: space-evenly;
+}
+#bhbh{
+    font-weight: 700;
+}
+
+
+
+.card{
+    position: relative;
+    width: 400px;
+    cursor: pointer;
+}
+.card-body{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.card-body:hover{
+    opacity: 2;
+}
+.card-title{
+    font-size: 1.45em;
+    color: lightskyblue;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 1.35em;
+    margin-top: 0.25em;
+    justify-content: center;
+}
+.card2{
+    position: relative;
+    width: 400px;
+    cursor: pointer;
+}
+.card-body2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.card-body2:hover{
+    opacity: 2;
+}
+.card-title2{
+    font-size: 1.45em;
+    color: lightskyblue;
+    font-weight: bold;
+}
+.card-text2{
+    font-size: 1.35em;
+    margin-top: 0.25em;
+    justify-content: center;
+}
+.card3{
+    position: relative;
+    width: 400px;
+    cursor: pointer;
+}
+.card-body3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.card-body3:hover{
+    opacity: 2;
+}
+.card-title3{
+    font-size: 1.45em;
+    color: lightskyblue;
+    font-weight: bold;
+}
+.card-text3{
+    font-size: 1.35em;
+    margin-top: 0.25em;
+    justify-content: center;
+}
+.cssssss{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card4{
+    position: relative;
+    width: 400px;
+    cursor: pointer;
+}
+.card-body4{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.card-body4:hover{
+    opacity: 2;
+}
+.card-title4{
+    font-size: 1.45em;
+    color: lightskyblue;
+    font-weight: bold;
+}
+.card-text4{
+    font-size: 1.35em;
+    margin-top: 0.25em;
+    justify-content: center;
+}
+.card5{
+    position: relative;
+    width: 400px;
+    cursor: pointer;
+}
+.card-body5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.card-body5:hover{
+    opacity: 2;
+}
+.card-title5{
+    font-size: 1.45em;
+    color: lightskyblue;
+    font-weight: bold;
+}
+.card-text5{
+    font-size: 1.35em;
+    margin-top: 0.25em;
+    justify-content: center;
+}
+.card6{
+    position: relative;
+    width: 400px;
+    cursor: pointer;
+}
+.card-body6{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.card-body6:hover{
+    opacity: 2;
+}
+.card-title6{
+    font-size: 1.45em;
+    color: lightskyblue;
+    font-weight: bold;
+}
+.card-text6{
+    font-size: 1.35em;
+    margin-top: 0.25em;
+    justify-content: center;
+}
+.css4{
+    display: flex;
+    justify-content: space-evenly;   
+}
+#mota{
+    font-weight: bold;
+}
+#ghg{
+    color: skyblue;
+}
+#ghgh{
+    color: skyblue;
+}
+#ghghg{
+    color: skyblue;
+}
+#ghghgh{
+    color: skyblue;
+}
+#bhbhbh{
+    font-weight: 700;   
+}
+.imagep{
+    position: relative;
+    width: 400px;
+}
+.image__imgp{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.image__overlayp{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlayp:hover{
+    opacity: 1;
+}
+.image__titlep{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__descriptionp{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+
+.imagepp{
+    position: relative;
+    width: 400px;
+}
+.image__imgpp{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.image__overlaypp{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlaypp:hover{
+    opacity: 1;
+}
+.image__titlepp{
+    font-size: 1.25em;
+    color: lightskyblue;
+    
+}
+.image__descriptionpp{
+    font-size: 1.25em;
+    margin-top: 0.25em;
+    font-weight: bold;
+}
+.cddd{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bhbhbhb{
+    font-weight: 800;   
+}
+.topbtn{
+    position: fixed;
+    bottom: 40px;
+    right: 110px;
+    /* font-size: 22px; */
+    width: 30px;
+    border: none;
+    cursor: pointer;
+}
